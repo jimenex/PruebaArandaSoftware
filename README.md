@@ -18,7 +18,6 @@ El Api esta desarrollado con C# NetFramework 4.7.2 utilizando Microsoft.EntityFr
    en el Front la imagen se carga pero no se puede modificar ni agregar cuando se crea un
    producto nuevo, esta funcionalidad no pudo ser implementada, aunque hay información al respecto
    y es la primera vez que hago algo en React no me funcionó.
-5. Los Fuentes se compartieron en la siguiente Ruta:   
 # Conclución:
 ***
 No creo haber logrado el objetivo de la prueba, aunque el servicio tiene las funcionalidades 
