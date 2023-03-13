@@ -16,10 +16,11 @@ El Api esta desarrollado con C# NetFramework 4.7.2 utilizando Microsoft.EntityFr
 2. Se entrega un Front en React el cual tienes las funcionalidades CRUD
 3. Con respecto a la Imagen, se pensó de manera que se guardara un Base64 en base de datos,
    en el Front la imagen se carga pero no se puede modificar ni agregar cuando se crea un
-   producto nuevo. 
+   producto nuevo, esta funcionalidad no pudo ser implementada, aunque hay información al respecto
+   y es la primera vez que hago algo en React no me funcionó.
 # Conclución:
 ***
 No creo haber logrado el objetivo de la prueba, aunque el servicio tiene las funcionalidades 
 basicas del CRUD, la prueba exigia un nivel mas de complejidad en la implementación del Servicio.
 
-¡Michas gracias por la oportunidad!
+¡Muchas gracias por la oportunidad!
